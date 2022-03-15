@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T06:15:43.399Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BXioRguXoRqvMEHxCQSg" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T06:30:27.593Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ryTi_1U3OTqdSKOEXczJ" version="17.1.2" type="github">
   <diagram id="WWS_F8Nu0QQZ9BbjHKAs" name="Page-1">
-    <mxGraphModel dx="1108" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qQAsEDVxZ6gm0i9vYEok-4" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-260" width="100" height="100" as="geometry" />
+          <mxGeometry x="-650" y="-310" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qQAsEDVxZ6gm0i9vYEok-6" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-260" width="100" height="100" as="geometry" />
+          <mxGeometry x="-510" y="-310" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qQAsEDVxZ6gm0i9vYEok-8" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" parent="1" vertex="1">
-          <mxGeometry x="325" y="-260" width="100" height="100" as="geometry" />
+          <mxGeometry x="-365" y="-310" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="V7QwzdHtaBazk7klx3A2-1" value="&lt;font face=&quot;Lato&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;How does time and environment affect my choices?&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="-80" width="550" height="30" as="geometry" />
@@ -47,7 +47,52 @@
           <mxGeometry x="80" y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="V7QwzdHtaBazk7klx3A2-16" value="Days where I&#39;m extremely occupied leads me to pick quick food options" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
-          <mxGeometry x="630" y="50" width="100" height="100" as="geometry" />
+          <mxGeometry x="570" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-17" value="Low fullness level around class hours" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-18" value="Sometimes miss meal when not at home and poorer food choice" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-19" value="Snack a lot during hours where I&#39;m just relaxing like watching TV" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-21" value="&lt;span&gt;Some meal choices with low fullness leads to snacking and extra meals in between&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="-500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-22" value="&lt;span&gt;A previous poor meal choice lead to more snacking&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-23" value="&lt;span&gt;Snacks lead to more snacking&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-24" value="&lt;span&gt;Meal where I spent longer to prepare usually are the most nutritious and keeps me full&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-25" value="&lt;span&gt;Dinner hour mostly consist of good choices since I don&#39;t usually prepare the meal&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-26" value="&lt;span&gt;Breakfast and lunch hours are usually where poorer choices are made&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-27" value="&lt;span&gt;Waking up close to class time leads to food choices with low fullness level&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-28" value="&lt;span&gt;Days where I&#39;m extremely occupied leads me to pick quick food options&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-690" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-29" value="&lt;span&gt;Snack a lot during hours where I&#39;m just relaxing like watching TV&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-30" value="&lt;span&gt;Sometimes miss meal when not at home and poorer food choice&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-31" value="&lt;span&gt;Low fullness level around class hours&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFB87;strokeColor=#C7C75D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-700" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-32" value="&lt;font face=&quot;Lato&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;How does time and environment affect my choices?&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-760" width="550" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
