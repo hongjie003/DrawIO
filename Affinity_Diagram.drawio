@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T06:30:27.593Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ryTi_1U3OTqdSKOEXczJ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T06:40:25.892Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rHyYqS877PrjkYYGAMix" version="17.1.2" type="github">
   <diagram id="WWS_F8Nu0QQZ9BbjHKAs" name="Page-1">
-    <mxGraphModel dx="2170" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,72 @@
         </mxCell>
         <mxCell id="V7QwzdHtaBazk7klx3A2-32" value="&lt;font face=&quot;Lato&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;How does time and environment affect my choices?&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="-760" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-33" value="&lt;font face=&quot;Lato&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;How does time and environment affect my choices?&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="580" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Timing&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="880" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Previous Meal&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1010" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-37" value="Waking up close to class time leads to food choices with low fullness level" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-38" value="Snacks lead to more snacking" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-39" value="Breakfast and lunch hours are usually where poorer choices are made" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-40" value="Dinner hour mostly consist of good choices since I don&#39;t usually prepare the meal" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-41" value="A previous poor meal choice lead to more snacking" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="310" y="960" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-42" value="Some meal choices with low fullness leads to snacking and extra meals in between" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="960" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-43" value="Meal where I spent longer to prepare usually are the most nutritious and keeps me full" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-44" value="Days where I&#39;m extremely occupied leads me to pick quick food options" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-45" value="Low fullness level around class hours" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-46" value="Sometimes miss meal when not at home and poorer food choice" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="620" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-47" value="Snack a lot during hours where I&#39;m just relaxing like watching TV" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="470" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-48" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-49" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-50" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-51" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="630" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-52" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-53" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="845" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-54" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="970" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
