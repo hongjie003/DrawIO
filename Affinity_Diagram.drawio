@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T06:05:35.730Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xIj0JXeXnsg2p_vkZRgi" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T06:15:43.399Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BXioRguXoRqvMEHxCQSg" version="17.1.2" type="github">
   <diagram id="WWS_F8Nu0QQZ9BbjHKAs" name="Page-1">
     <mxGraphModel dx="1108" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,14 +28,26 @@
         <mxCell id="V7QwzdHtaBazk7klx3A2-7" value="Waking up close to class time leads to food choices with low fullness level" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="V7QwzdHtaBazk7klx3A2-10" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
-          <mxGeometry x="345" y="50" width="100" height="100" as="geometry" />
+        <mxCell id="V7QwzdHtaBazk7klx3A2-10" value="Snacks lead to more snacking" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="V7QwzdHtaBazk7klx3A2-11" value="Breakfast and lunch hours are usually where poorer choices are made" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="V7QwzdHtaBazk7klx3A2-12" value="Dinner hour mostly consist of good choices since I don&#39;t usually prepare the meal" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-13" value="A previous poor meal choice lead to more snacking" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-14" value="Some meal choices with low fullness leads to snacking and extra meals in between" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#D99DA3;fillColor=#FFB8BC;" vertex="1" parent="1">
+          <mxGeometry x="345" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-15" value="Meal where I spent longer to prepare usually are the most nutritious and keeps me full" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ADC6FF;strokeColor=#8593B0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7QwzdHtaBazk7klx3A2-16" value="Days where I&#39;m extremely occupied leads me to pick quick food options" style="shape=note;size=20;whiteSpace=wrap;html=1;shadow=1;strokeColor=#7CC787;fillColor=#B8FFB5;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
